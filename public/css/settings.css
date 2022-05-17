@@ -1,0 +1,28 @@
+.main-settings {
+  display: flex;
+}
+
+.info {
+  margin-top: 2rem;
+}
+
+.profile-pic {
+  margin-right: 10px;
+  background-color:#999;
+  width: 225px;
+  height: 265px;
+  border-radius: 10px;
+  text-align: center;
+}
+  
+.profile-pic-img {
+  margin-bottom: 20px;
+  margin-left: -1px;
+  width: 175px;
+  height: 175px;
+  margin-top: 25px;
+}
+
+.container {
+  text-align: center;
+}
